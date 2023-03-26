@@ -576,7 +576,7 @@ video {
 	cursor: pointer;
 }
 .label-email:after{
-    content:"hello@dejan.works";
+    content:"hello@sudhanshu.one";
 }
 .label-email:hover:after{
 	content:"Copy to clipboard";
